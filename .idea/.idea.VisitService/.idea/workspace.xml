@@ -10,22 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5efaea7-f145-4d09-9a9f-8ea4b147d08a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Controllers/VisitController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Models/DTOs/ClientDTO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Models/DTOs/MechanicDTO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Models/DTOs/ServiceDTO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Models/DTOs/VisitRequestDTO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Models/DTOs/VisitResponseDTO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Services/IVisitService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/Services/VisitService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/VisitService.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/VisitService.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisitService/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisitService/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,25 +32,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.VisitService: IIS Express.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Launch Settings Profile.VisitService: http.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.VisitService: IIS Express.executor": "Run",
+    ".NET Launch Settings Profile.VisitService: http.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;sqlserver.localdb&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver.localdb"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.VisitService: http">
     <configuration name="VisitService: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/VisitService/VisitService.csproj" />
@@ -122,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747064199592</updated>
       <workItem from="1747064200860" duration="4185000" />
+      <workItem from="1747068440925" duration="368000" />
     </task>
     <servers />
   </component>
